@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**CodeClairvoyant/CodeClairvoyant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CodeClairvoyant** — building Machine Learning & AI Tools tools.
 
-Here are some ideas to get you started:
+I like building things at the intersection of research and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current focus:**
+- Training efficient language models
+- - Building developer tools for AI workflows
+  - - Open-source contributions to the ML ecosystem
+   
+    - **Tech stack:** Python · PyTorch · CUDA · Transformers · FastAPI · Docker
+   
+    - ---
+
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+    ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+    ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+    
